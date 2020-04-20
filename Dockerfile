@@ -1,4 +1,5 @@
-# Initialisiert die Bereitstellung und legt das Basis Image mit nachfolgenden Anweisungen an
+# Initialisiert die Bereitstellung und 
+# legt das Basis Image mit nachfolgenden Anweisungen an
 FROM golang:onbuild
 
 # label of maintainer
